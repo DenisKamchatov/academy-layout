@@ -1,1 +1,1 @@
-# academy-layout
+Page layout for HTML academy
